@@ -6,4 +6,13 @@
             <ditaval href="../fancypeople.ditaval"/>
         </profile>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Luxury_Vacations-1728677809565" name="Luxury Vacations">
+        <context idref="lIwvFUHsuAQCOEZ"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
